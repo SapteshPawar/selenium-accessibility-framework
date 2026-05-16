@@ -137,25 +137,31 @@ mvn test
 
 ## Console Output
 
-Add screenshot here later.
+<img width="1896" height="847" alt="image" src="https://github.com/user-attachments/assets/216dac88-8635-44f6-9a2a-3ef6ddfcdab0" />
+<img width="895" height="199" alt="image" src="https://github.com/user-attachments/assets/81e66461-f44a-4b1c-ae4c-cd43e34ea550" />
+
+
 
 ---
 
 ## Accessibility Report
 
-Add screenshot here later.
+<img width="1067" height="191" alt="image" src="https://github.com/user-attachments/assets/34074f86-b217-43e6-b126-89c7ee4189a2" />
+
 
 ---
 
 ## TestNG Result
 
-Add screenshot here later.
+<img width="895" height="199" alt="image" src="https://github.com/user-attachments/assets/dbdbf464-804b-4ace-aa44-872d38680e8b" />
+
 
 ---
 
 ## Failure Screenshot
 
-Add screenshot here later.
+<img width="1920" height="847" alt="verifyAccessibility" src="https://github.com/user-attachments/assets/e4e76dae-7d16-4f77-9ce7-39e24a887d5f" />
+
 
 ---
 
