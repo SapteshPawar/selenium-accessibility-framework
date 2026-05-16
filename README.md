@@ -4,6 +4,8 @@
 ![Maven](https://img.shields.io/badge/Maven-Build-blue)
 ![Accessibility](https://img.shields.io/badge/WCAG-Accessibility-purple)
 
+> ♿ Automated Accessibility Testing Framework using Selenium WebDriver and Axe-core for WCAG validation.
+
 # Selenium Accessibility Automation Framework
 
 ## 📌 Project Overview
