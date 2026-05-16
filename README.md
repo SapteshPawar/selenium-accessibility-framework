@@ -1,3 +1,9 @@
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-green)
+![TestNG](https://img.shields.io/badge/TestNG-Framework-red)
+![Maven](https://img.shields.io/badge/Maven-Build-blue)
+![Accessibility](https://img.shields.io/badge/WCAG-Accessibility-purple)
+
 # Selenium Accessibility Automation Framework
 
 ## 📌 Project Overview
