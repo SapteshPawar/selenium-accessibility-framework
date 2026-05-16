@@ -22,6 +22,18 @@ The project includes:
 
 ---
 
+# ✨ Key Features
+
+- Automated accessibility scanning using Axe-core
+- Selenium WebDriver automation
+- Accessibility validation after login
+- Screenshot capture on failure
+- Structured console reporting
+- Severity categorization
+- Page Object Model (POM) framework
+- Explicit waits using WebDriverWait
+- Maven dependency management
+
 # 🚀 Tech Stack
 
 - Java
