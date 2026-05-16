@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Accessibility Suite">
+
+    <test name="Accessibility Tests">
+
+        <classes>
+            <class name="tests.AccessibilityTest"/>
+        </classes>
+
+    </test>
+
+</suite>
