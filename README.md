@@ -8,8 +8,6 @@
 
 ## 📌 Project Overview
 
-Test Website: [SauceDemo](https://www.saucedemo.com)
-
 This project is a Selenium-based Accessibility Automation Framework developed using Java, TestNG, Maven, and Axe-core.
 
 The framework performs automated accessibility testing on the SauceDemo web application and validates WCAG accessibility standards across multiple pages.
@@ -21,6 +19,8 @@ The project includes:
 - Screenshot capture on failure
 - Structured console reporting
 - Severity categorization
+
+Test Website: [SauceDemo](https://www.saucedemo.com)
 
 ---
 
