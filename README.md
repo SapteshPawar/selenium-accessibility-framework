@@ -144,7 +144,6 @@ mvn test
 ## Console Output
 
 <img src="https://github.com/user-attachments/assets/216dac88-8635-44f6-9a2a-3ef6ddfcdab0" width="800" />
-<img src="https://github.com/user-attachments/assets/81e66461-f44a-4b1c-ae4c-cd43e34ea550" width="800"/>
 
 
 
