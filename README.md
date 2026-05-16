@@ -143,7 +143,7 @@ mvn test
 
 ## Console Output
 
-<img width="1896" height="847" alt="image" src="https://github.com/user-attachments/assets/216dac88-8635-44f6-9a2a-3ef6ddfcdab0" />
+<img src="https://github.com/user-attachments/assets/216dac88-8635-44f6-9a2a-3ef6ddfcdab0" width="800" />
 <img width="895" height="199" alt="image" src="https://github.com/user-attachments/assets/81e66461-f44a-4b1c-ae4c-cd43e34ea550" />
 
 
