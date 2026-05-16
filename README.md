@@ -38,6 +38,7 @@ Test Website: [SauceDemo](https://www.saucedemo.com)
 - Explicit waits using WebDriverWait
 - Maven dependency management
 
+<hr>
 # 🚀 Tech Stack
 
 - Java
